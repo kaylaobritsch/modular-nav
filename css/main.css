@@ -30,6 +30,11 @@ a {
   text-decoration: none;
 }
 
+.current {
+  background-color: #0074d9;
+  color: #fff;
+}
+
 nav {
   text-align: center;
 }
